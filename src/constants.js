@@ -1,3 +1,4 @@
 export const screens = {
-    landingScreen: 'LANDING_SCREEN'
+    landingScreen: 'LANDING_SCREEN',
+    masonry: 'MASONRY'
 }
